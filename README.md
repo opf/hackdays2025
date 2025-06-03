@@ -12,7 +12,7 @@ Welcome to [HackDays DINUM 2025](https://hackdays.numerique.gouv.fr/en) — the 
 
 From **June 2–4, 2025**, join us at **Campus Jourdan (Paris)** for a three-day hackathon hosted by École Normale Supérieure. Whether you’re a back‑end or front-end whiz, a DevOps ace, a UX/UI designer or data & AI specialist, HackDays is your chance to supercharge Europe’s digital sovereignty by shaping the future of the **digital workspace**.
 
-It’s your turn — time to build your team, explore challenges, show your skills and shine.
+It’s my turn — time to build your team, explore challenges, show your skills and shine.
 
 ## 📄 [Event documentation](https://impress-staging.beta.numerique.gouv.fr/docs/94003084-ef31-4272-876e-ce25577ef804/)
 For you participants! (Progam, WIFI, Tech Docs etc.)
